@@ -12,7 +12,7 @@ This project implements a machine learning model to detect fake news articles. I
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/fake-news-detection.git
-`` 
+
 2. Navigate to the project directory:
 ```bash
 cd fake-news-detection

@@ -76,5 +76,5 @@ acc_test_data = accuracy_score(Y_test, pred_test_data)
 ```
 Results
 
--Training Accuracy: Achieved a high accuracy score on the training data.
--Testing Accuracy: Model performance is evaluated on unseen test data to check for generalization.
+-Training Accuracy: Achieved a high accuracy score on the training data(99.5%).
+-Testing Accuracy: Model performance is (98.6%).
